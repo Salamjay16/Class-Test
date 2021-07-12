@@ -1,2 +1,2 @@
 # Class-Test
-Solutions
+Solution
